@@ -6,7 +6,7 @@ package cr.go.ucr.examen1;
 
 /**
  *
- * @author Admin
+ * @author kevin
  */
 public class Examen1 {
 
